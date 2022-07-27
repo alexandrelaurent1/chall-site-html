@@ -1,0 +1,20 @@
+body {
+  background-color: #000000;
+}
+
+h1,
+h2 {
+  color: #000000;
+}
+
+.text-blue {
+  color: blue;
+}
+
+.text-green-dark {
+  color: #567876;
+}
+
+.mt-10 {
+  margin-top: 100em;
+}
